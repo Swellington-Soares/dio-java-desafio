@@ -1,0 +1,41 @@
+mar. 26, 2025 3:08:01 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408191938.sql
+mar. 26, 2025 3:08:01 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408210954.sql
+mar. 26, 2025 3:08:01 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408211004.sql
+mar. 26, 2025 3:08:01 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408211005.sql
+mar. 26, 2025 3:08:01 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408281807.sql
+mar. 26, 2025 3:08:02 AM liquibase.changelog
+INFO: Reading from board.DATABASECHANGELOG
+Database is up to date, no changesets to execute
+mar. 26, 2025 3:08:02 AM liquibase.changelog
+INFO: Reading from board.DATABASECHANGELOG
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: UPDATE SUMMARY
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: Run:                          0
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: Previously run:               5
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: Filtered out:                 0
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: -------------------------------
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: Total change sets:            5
+mar. 26, 2025 3:08:02 AM liquibase.util
+INFO: Update summary generated
+mar. 26, 2025 3:08:02 AM liquibase.lockservice
+INFO: Successfully released change log lock
+mar. 26, 2025 3:08:02 AM liquibase.command
+INFO: Command execution complete
